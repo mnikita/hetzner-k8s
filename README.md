@@ -5,7 +5,7 @@
 Kubernetes cluster deployment on Hetzner infrastructure using a Kubernetes management platform. Automated, extendable deployment with updates, backups and restores. The deployment procedure is reproducible for virtual Hetzner cloud instances and dedicated servers. 
 
 ##### Description:
-Creation of automated procedure for provisioning cloud instances and dedicated servers on Hetzner Cloud infrastructure. Preferred Kubernetes Management platforms are Kubermatic, Kubespray, Terraform. Ideally, the whole deployment procedure is driven by a simple YAML config file. Ability to manage multiple Kubernetes clusters from a central location. Suggestions for a different Kubernetes management platform are also welcome.
+Creation of automated procedure for provisioning cloud instances and dedicated servers on Hetzner Cloud infrastructure. Ideally, the whole deployment procedure is driven by a simple YAML config file. Suggestions for a Kubernetes management platform are also welcome.
 
 The following features are required for the deployment.
 
